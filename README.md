@@ -1,4 +1,5 @@
 
+# 添加打入内存马功能，用于测试。
 # ysoserial
 
 [![Join the chat at https://gitter.im/frohoff/ysoserial](
